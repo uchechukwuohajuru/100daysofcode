@@ -1,7 +1,8 @@
-# Day1 of 100DaysOfCode challenge
+# Understanding Programming tools
 
-"""
-For our first day of the 100 days of code challenge, we will be looking at the basics in python.
-First, we will look at what a variable is in python, 
-then we will move to the data types used in python programming.
-"""
+'''
+On this first day of my code challenge, I will be introducing some of the tools we will be using for the 
+entire code challenge and other tools that are worthy of mention will be mentioned as we progress
+'''
+
+post = "Done through a script, not code."

@@ -1,0 +1,5 @@
+Section A (Day 1 - 15): Python Fundamentals
+Day 1: Understanding programming tools
+
+Day 2: Python Data Types
+Day 3: Python Variables
